@@ -54,9 +54,9 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[OrderGuard case study](https://orderguard.leadlanding.dev)** | Multi-tenant fraud-intelligence SaaS — architecture, schema and security write-up | Node · Express · PostgreSQL · React |
+| **[OrderGuard case study](https://github.com/4issam/orderguard-case-study)** | Multi-tenant fraud-intelligence SaaS — architecture, schema and security write-up | Node · Express · PostgreSQL · React |
 | **[Medical Internship Management System](https://medical-internship-management-system.leadlanding.dev)** | Web app for assigning, tracking and supervising medical students' internships | Next.js · TypeScript · Python |
-| **[MMA E-commerce](https://github.com/iiiissam/MMA-Ecommerce)** | Full storefront with cart, checkout and an admin panel for products, orders and customers | Next.js · TypeScript |
+| **[MMA E-commerce](https://github.com/4issam/MMA-Ecommerce)** | Full storefront with cart, checkout and an admin panel for products, orders and customers | Next.js · TypeScript |
 | **Department Delegation Bot** | Telegram bot that parses instructor emails, posts announcements to the department group and answers student questions from a Google Sheets knowledge base | n8n · JavaScript |
 
 ---
