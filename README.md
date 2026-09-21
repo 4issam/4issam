@@ -42,11 +42,11 @@
 
 ### 🛠️ Stack
 
-**Backend** &nbsp;`Node.js` `Express` `Python` `Django` `Java` `REST API design`
-**Data** &nbsp;`PostgreSQL` `MySQL` `raw SQL` `schema design`
-**Frontend** &nbsp;`React` `Next.js` `TypeScript` `Vue` `Tailwind`
-**Infra & tooling** &nbsp;`Docker` `Railway` `Vercel` `Cloudflare` `Git` `GitHub Actions`
-**Learning** &nbsp;`Spring Boot` `Spring Security` `JPA / Hibernate` `Testcontainers`
+**Backend** &nbsp;`Node.js` `Express` `Python` `Django` `Java` `REST API design` <br>
+**Data** &nbsp;`PostgreSQL` `MySQL` `raw SQL` `schema design` <br>
+**Frontend** &nbsp;`React` `Next.js` `TypeScript` `Vue` `Tailwind` <br>
+**Infra & tooling** &nbsp;`Docker` `Railway` `Vercel` `Cloudflare` `Git` `GitHub Actions` <br>
+**Learning** &nbsp;`Spring Boot` `Spring Security` `JPA / Hibernate` `Testcontainers` <br>
 
 ---
 
